@@ -34,6 +34,7 @@ namespace AzureAPI.Controllers
             double result = 0;
             try
             {
+                //start switch
                 switch (operation)
                 {
                     case 1:
